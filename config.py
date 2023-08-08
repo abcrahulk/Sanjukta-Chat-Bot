@@ -7,25 +7,25 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "27353035"))
 API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "5350929381"))
+OWNER_ID = int(getenv("OWNER_ID", "5918548652"))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Nexa_Verse")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "DadEyeBotz")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Dev_Arora_0981")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "+oyABz4Lcymw4M2M1")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "ZiddiXBot")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "itz_Lucky_Raja")
 
 # Random Start Images
 IMG = [
-    "https://te.legra.ph/file/5bf629d10afd4af953585.jpg",
-    "https://te.legra.ph/file/7a321b99fe99d9d8b5117.jpg",
-    "https://te.legra.ph/file/c482a7e55b459ffe07502.jpg",
-    "https://telegra.ph//file/0879fbdb307005c1fa8ab.jpg",
-    "https://telegra.ph//file/19e3a9d5c0985702497fb.jpg",
-    "https://telegra.ph//file/b5fa277081dddbddd0b12.jpg",
-    "https://telegra.ph//file/96e96245fe1afb82d0398.jpg",
-    "https://telegra.ph//file/fb140807129a3ccb60164.jpg",
-    "https://telegra.ph//file/09c9ea0e2660efae6f62a.jpg",
+    "https://te.legra.ph/file/04182aca22e7860b732bc.jpg",
+    "https://te.legra.ph/file/1abb4ac383a19ad6c1a64.jpg",
+    "https://te.legra.ph/file/496162fdee5dd6355fd86.jpg",
+    "https://te.legra.ph/file/10df5e259c04ac030e1a6.jpg",
+    "https://te.legra.ph/file/68faec78f390ff0ec1962.jpg",
+    "https://te.legra.ph/file/2d6bc6008eaa2eec77d92.jpg",
+    "https://te.legra.ph/file/a9d63d2a23aa7db7f5f8d.jpg",
+    "https://te.legra.ph/file/7b9232e7ba8e2965bf3df.jpg",
+    "https://te.legra.ph/file/df3f3d39d672d59b81936.jpg",
     "https://telegra.ph//file/3b59b15e1914b4fa18b71.jpg",
-    "https://telegra.ph//file/efb26cc17eef6fe82d910.jpg",
+    "https://te.legra.ph/file/9aba005898bdea06dd949.jpg",
     "https://telegra.ph//file/ab4925a050e07b00f63c5.jpg",
     "https://telegra.ph//file/d169a77fd52b46e421414.jpg",
     "https://telegra.ph//file/dab9fc41f214f9cded1bb.jpg",
@@ -60,9 +60,9 @@ IMG = [
 
 # Random Stickers
 STICKER = [
-    "CAACAgQAAxkBAALRi2NZXUgjZCT775L5Nr0XrLbQ6XIpAAK_EQACpvFxHq2xh5JRVJNrKgQ",
-    "CAACAgQAAxkBAALRjGNZXUs6YPggISBdtg4nXaU0vjNzAALqCwACbCIRU61ZQKi3F88DKgQ",
-    "CAACAgQAAxkBAALRjWNZXUvETcfHR2Yi9ftTQLLP2uD8AAIVDAAC1SMQU-QrCHEcbz8rKgQ",
+    "CAACAgUAAxkBAAIJNWTSBk-mL4YYgEkCKysQ3RkZu791AAKQBQACJU7BVaBprfb-3w_9MAQ",
+    "CAACAgUAAxkBAAIJKWTSBfsf52WRpHV9bjGmHylENCQ0AAJWBgACnAzBVR4U4AMzmDwLMAQ",
+    "CAACAgUAAxkBAAIJMGTSBig-1KPa4RqbehBCdPms7K2JAAJ1BQACyr3BVc5Cv4I_iOLoMAQ",
 ]
 
 
